@@ -1,7 +1,6 @@
-"""
 # Welcome to **VindikatersCorders** 👨‍💻🚀
 
-![VindikatersCorders Logo](#) <!-- Add a link to your organization logo -->
+![VindikatersCorders Logo](https://github.com/VindikatersCoders/.github/blob/main/vindikaters_logo_transparent_final.ico)
 
 **VindikatersCorders** is a passionate team of developers focused on delivering top-notch software solutions. We specialize in:
 
