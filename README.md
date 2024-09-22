@@ -37,5 +37,5 @@ Need a powerful desktop application? We excel at building Java-based standalone 
 We are always excited to collaborate on new projects. Feel free to reach out if you have an idea or project in mind!
 
 - Email: [contact@vindikaterscorders.com](mailto:vindikaters.official@outlook.com) 
-- GitHub: [@VindikatersCorders](#) <!-- Add your GitHub link -->
+- GitHub: [@VindikatersCorders](https://github.com/VindikatersCoders) <!-- Add your GitHub link -->
 
